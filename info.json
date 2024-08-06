@@ -1,0 +1,14 @@
+{
+  "name": "LunarLandingsRocketFuel",
+  "version": "1.0.0",
+  "title": "Lunar Landings Rocket Fuel Readdition",
+  "author": "Remi_Hinanawi",
+  "factorio_version": "1.1",
+    "contact": "",
+    "homepage": "",
+  "dependencies": [
+	"base >= 1.1",
+	"LunarLandings"
+  ],
+  "description": "Re adds the solid rocket fuel item back to the game for uses in trains, furnaces and other fueled vehicles and machines."
+}

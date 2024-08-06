@@ -1,0 +1,6 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 2024-07-11
+  Features:
+    - Initial release. 
+    - Readded the rocket fuel item and recipe for use in trains and other vehicles or machines.
